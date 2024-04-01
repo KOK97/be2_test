@@ -1,2 +1,6 @@
 Đây là file .txt
+<<<<<<< HEAD
 Thuộc branch test
+=======
+Thuộc branch main và test
+>>>>>>> main
