@@ -1,2 +1,2 @@
-Đây là file txt
+Đây là file .txt
 Thuộc branch main và test
